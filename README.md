@@ -2,7 +2,6 @@
 
 **Predicting the Finalist Teams and Winner of the ICC Cricket World Cup 2023_**<br/>
 
-_DATASET DESCRIPTION_<br/>
 **1. ICC CWC 23 Points Table (Scrapped)**<br/>
 _Description_: The dataset was collected through web scraping from Cricbuzz, a prominent sports platform. It contains cricket performance details for various countries, including the number of matches played, matches won and lost, points earned, and net run rate. The use of web scraping allows for a comprehensive and up-to-date overview of cricket statistics, providing valuable insights into the performances of different teams in specific matches.<br/>
 **Note**: Attributes description in provided in the respective ipynb file.<br/>
@@ -54,11 +53,10 @@ Predictions :<br/>
 
 **Predicting the finalist teams/Playing 11.**<br/>
 
-DATASET DESCRIPTION<br/>
 _Batting Dataset Link:_ : https://drive.google.com/file/d/1v6YTvUfGlPnohr0DtIcBQ2vQmAAtt-jY/view?usp=sharing
 _Bowling Dataset Link:_ https://drive.google.com/file/d/1hs5pvLrj-vpCWEfRPSnFgK58ZOdiS1Nr/view?usp=sharing
 
-_Description:_ <br/>
+DATASET DESCRIPTION<br/>
 The dataset presented here was obtained through the process of web scraping from ESPNcricinfo, a prominent and reliable source for comprehensive cricket-related information. Web scraping is a technique that automates the extraction of data from web pages, allowing us to compile a detailed dataset on various aspects of cricket matches. ESPNcricinfo, being a renowned platform, provides up-to-date and in-depth statistics, including the number of matches played, matches won and lost, points earned, and net run rate for each country. Through this web scraping process, we aim to deliver accurate and timely insights into the performance of cricket-playing nations, enabling a thorough analysis of team dynamics and tournament standings.
 
 **Prediction of playing eleven for Team India:-**
