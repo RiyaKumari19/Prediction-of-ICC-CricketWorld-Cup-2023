@@ -1,10 +1,9 @@
 # Prediction-of-ICC-CricketWorld-Cup-2023
 
-Predicting the Finalist Teams and Winner of the ICC Cricket World Cup 2023_**<br/>
+**Predicting the Finalist Teams and Winner of the ICC Cricket World Cup 2023_**<br/>
 
 _DATASET DESCRIPTION_<br/>
 **1. ICC CWC 23 Points Table (Scrapped)**<br/>
-_Dataset Link_ : Web_Scrapping_DM_Challenge.ipynb<br/>
 _Description_: The dataset was collected through web scraping from Cricbuzz, a prominent sports platform. It contains cricket performance details for various countries, including the number of matches played, matches won and lost, points earned, and net run rate. The use of web scraping allows for a comprehensive and up-to-date overview of cricket statistics, providing valuable insights into the performances of different teams in specific matches.<br/>
 **Note**: Attributes description in provided in the respective ipynb file.<br/>
 _Purpose_: Comprehensive overview of cricket performances by different nations.<br/>
@@ -31,7 +30,6 @@ _Description_ : This dataset provides comprehensive information about ODI cricke
 
 We have used two approaches:<br/> 
 **1)Considering the problem statement as Multiclass Classification task** <br/>
-_**File : Final_ICC_WC23_predictions.ipynb**_<br/>
 Prediction :<br/> 
 -->**Finalists**:<br/>
 
@@ -50,13 +48,12 @@ _**AUSTRALIA :(**_
 
 
 **2)Considering the problem statement as Regression task.**<br/>
-_**File: Final_Regression_TaskDM_3.ipynb**_ <br/>
 Predictions :<br/> 
 ![4](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/ff0669e2-0532-4027-b0ac-444354dcd1ef)
 ![5](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/f38f9dc5-dc01-454f-8ba4-bc539804cb9a)
 
-**Task 2.2: Predicting the finalist teams/Playing 11.**<br/>
-**_File: Prediction_of_Playing_11_DATA_MINING_.ipynb**<br/>
+** Predicting the finalist teams/Playing 11.**<br/>
+
 DATASET DESCRIPTION<br/>
 _Batting Dataset Link:_ : https://drive.google.com/file/d/1v6YTvUfGlPnohr0DtIcBQ2vQmAAtt-jY/view?usp=sharing
 _Bowling Dataset Link:_ https://drive.google.com/file/d/1hs5pvLrj-vpCWEfRPSnFgK58ZOdiS1Nr/view?usp=sharing
