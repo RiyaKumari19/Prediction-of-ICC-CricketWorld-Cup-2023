@@ -52,7 +52,7 @@ Predictions :<br/>
 ![4](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/ff0669e2-0532-4027-b0ac-444354dcd1ef)
 ![5](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/f38f9dc5-dc01-454f-8ba4-bc539804cb9a)
 
-** Predicting the finalist teams/Playing 11.**<br/>
+**Predicting the finalist teams/Playing 11.**<br/>
 
 DATASET DESCRIPTION<br/>
 _Batting Dataset Link:_ : https://drive.google.com/file/d/1v6YTvUfGlPnohr0DtIcBQ2vQmAAtt-jY/view?usp=sharing
