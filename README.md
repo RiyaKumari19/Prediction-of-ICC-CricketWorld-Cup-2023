@@ -1,0 +1,1 @@
+# Prediction-of-ICC-CricketWorld-Cup-2023
